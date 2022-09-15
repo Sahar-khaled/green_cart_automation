@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="17.544">
+    <testcase classname="F01_Payment-process |" name="user buy from the green cart" time="17.218">
+        <system-out><![CDATA[Given user link to the url..................................................passed
+When user click on add to cart button.......................................passed
+And click on bag image......................................................passed
+And Click on proceed to checkout and navigate to green cart.................passed
+And click on place order button and navigate to choose country page.........passed
+And click on select button..................................................passed
+And agree to the terms and conditions.......................................passed
+And click on proceed button.................................................passed
+Then Validate that the user bought successfully.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
